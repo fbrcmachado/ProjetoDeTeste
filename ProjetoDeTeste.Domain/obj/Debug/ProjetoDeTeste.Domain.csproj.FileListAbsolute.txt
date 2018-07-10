@@ -1,0 +1,5 @@
+c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.Domain\bin\Debug\ProjetoDeTeste.Domain.dll
+c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.Domain\bin\Debug\ProjetoDeTeste.Domain.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.Domain\obj\Debug\ProjetoDeTeste.Domain.dll
+c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.Domain\obj\Debug\ProjetoDeTeste.Domain.pdb
+c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.Domain\obj\Debug\ProjetoDeTeste.Domain.csprojResolveAssemblyReference.cache
