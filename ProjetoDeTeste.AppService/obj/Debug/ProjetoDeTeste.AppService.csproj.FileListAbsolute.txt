@@ -1,5 +1,5 @@
-c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\bin\Debug\ProjetoDeTeste.AppService.dll
-c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\bin\Debug\ProjetoDeTeste.AppService.pdb
-c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.csprojResolveAssemblyReference.cache
-c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.dll
-c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\bin\Debug\ProjetoDeTeste.AppService.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\bin\Debug\ProjetoDeTeste.AppService.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.csprojResolveAssemblyReference.cache
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.pdb

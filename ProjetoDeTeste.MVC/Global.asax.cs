@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using ProjetoDeTeste.IoC;
 using ProjetoDeTeste.MVC.AutoMapper;
 using System;
 using System.Collections.Generic;
@@ -19,6 +20,8 @@ namespace ProjetoDeTeste.MVC
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
             AutoMapperConfig.Registermappings();
+
+            DependencyResolver.SetResolver(SimpleInjectorContainer.RegisterServices());
         }
     }
 }

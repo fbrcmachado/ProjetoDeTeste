@@ -81,6 +81,7 @@
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="SimpleInjector, Version=4.3.0.0, Culture=neutral, PublicKeyToken=984cb50dea722e99" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
@@ -222,6 +223,10 @@
     <ProjectReference Include="..\ProjetoDeTeste.Domain\ProjetoDeTeste.Domain.csproj">
       <Project>{74324870-4AD3-4257-9F1D-4878BA8D3072}</Project>
       <Name>ProjetoDeTeste.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ProjetoDeTeste.IoC\ProjetoDeTeste.IoC.csproj">
+      <Project>{b00bc995-cc7f-4998-934f-e560a3ad3f5b}</Project>
+      <Name>ProjetoDeTeste.IoC</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

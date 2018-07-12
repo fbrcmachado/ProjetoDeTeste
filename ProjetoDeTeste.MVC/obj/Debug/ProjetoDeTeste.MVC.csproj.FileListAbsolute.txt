@@ -51,3 +51,16 @@ c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDe
 c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\obj\Debug\ProjetoDeTeste.MVC.csprojResolveAssemblyReference.cache
 c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\obj\Debug\ProjetoDeTeste.MVC.dll
 c:\users\fabricio\documents\visual studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\obj\Debug\ProjetoDeTeste.MVC.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\AutoMapper.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.Domain.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.IoC.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\System.ValueTuple.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.Infra.Data.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\EntityFramework.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.Domain.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.IoC.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\AutoMapper.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\AutoMapper.xml
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\System.ValueTuple.xml
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.Infra.Data.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\EntityFramework.xml
