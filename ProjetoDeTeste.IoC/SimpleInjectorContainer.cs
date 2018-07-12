@@ -1,4 +1,8 @@
-﻿using ProjetoDeTeste.Domain.Repositories;
+﻿using ProjetoDeTeste.AppService;
+using ProjetoDeTeste.AppService.Interfaces;
+using ProjetoDeTeste.Domain.Interfaces.Services;
+using ProjetoDeTeste.Domain.Repositories;
+using ProjetoDeTeste.Domain.Services;
 using ProjetoDeTeste.Infra.Data.Repositories;
 using SimpleInjector;
 using System;
@@ -20,8 +24,9 @@ namespace ProjetoDeTeste.IoC
 
             //Registrando as Implementações
             
-            //container.Register<IClientService, ClientService>();
+            container.Register<IFornecedoresService, FornecedoresService>();
             container.Register<IFornecedoresRepository, FornecedoresRepository>();
+            container.Register<IFornecedoresAppService, FornecedoresAppService>();
             container.Verify();
             return container;
         }

@@ -64,3 +64,5 @@ C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDe
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\System.ValueTuple.xml
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.Infra.Data.pdb
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\EntityFramework.xml
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.AppService.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.MVC\bin\ProjetoDeTeste.AppService.pdb

@@ -22,3 +22,5 @@ C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDe
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.IoC\obj\Debug\ProjetoDeTeste.IoC.csprojResolveAssemblyReference.cache
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.IoC\obj\Debug\ProjetoDeTeste.IoC.dll
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.IoC\obj\Debug\ProjetoDeTeste.IoC.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.IoC\bin\Debug\ProjetoDeTeste.AppService.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.IoC\bin\Debug\ProjetoDeTeste.AppService.pdb

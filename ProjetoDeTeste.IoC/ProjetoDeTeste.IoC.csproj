@@ -87,6 +87,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ProjetoDeTeste.AppService\ProjetoDeTeste.AppService.csproj">
+      <Project>{A6BD1F24-D95F-455D-8098-C1480BAA7DA5}</Project>
+      <Name>ProjetoDeTeste.AppService</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProjetoDeTeste.Domain\ProjetoDeTeste.Domain.csproj">
       <Project>{74324870-4AD3-4257-9F1D-4878BA8D3072}</Project>
       <Name>ProjetoDeTeste.Domain</Name>

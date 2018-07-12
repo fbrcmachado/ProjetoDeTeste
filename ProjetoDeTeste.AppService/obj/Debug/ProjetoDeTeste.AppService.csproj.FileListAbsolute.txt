@@ -3,3 +3,5 @@ C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDe
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.csprojResolveAssemblyReference.cache
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.dll
 C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\obj\Debug\ProjetoDeTeste.AppService.pdb
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\bin\Debug\ProjetoDeTeste.Domain.dll
+C:\Users\Fabricio\Documents\Visual Studio 2015\Projects\ProjetoDeTeste\ProjetoDeTeste.AppService\bin\Debug\ProjetoDeTeste.Domain.pdb

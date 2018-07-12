@@ -207,10 +207,14 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Fornecedores\Index.cshtml" />
+    <Content Include="Views\Fornecedores\Details.cshtml" />
+    <Content Include="Views\Fornecedores\Create.cshtml" />
+    <Content Include="Views\Fornecedores\Edit.cshtml" />
+    <Content Include="Views\Fornecedores\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Fornecedores\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -220,6 +224,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ProjetoDeTeste.AppService\ProjetoDeTeste.AppService.csproj">
+      <Project>{A6BD1F24-D95F-455D-8098-C1480BAA7DA5}</Project>
+      <Name>ProjetoDeTeste.AppService</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ProjetoDeTeste.Domain\ProjetoDeTeste.Domain.csproj">
       <Project>{74324870-4AD3-4257-9F1D-4878BA8D3072}</Project>
       <Name>ProjetoDeTeste.Domain</Name>
